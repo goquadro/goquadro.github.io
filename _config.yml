@@ -5,6 +5,8 @@ pygments: true
 permalink: /:title/
 timezone: Europe/Rome
 baseurl: http://blog.goquadro.com
+include:
+- _pages
 exclude:
 - README.md
 - CNAME
