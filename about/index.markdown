@@ -31,14 +31,12 @@ Goquadro was built using opensource software.
 * [Martini][martini] by the Code Gangsta ([MIT license](https://raw.githubusercontent.com/go-martini/martini/master/LICENSE))
 * [AngularJS][angularjs] by Google ([MIT license](https://raw.githubusercontent.com/angular/angular.js/master/LICENSE))
 * [bcrypt implementation][go.bcrypt] by the Go authors
-* [Bootstrap][bootstrap] framework by Twitter ([MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE))
 
 
 [goquadro]: https://www.goquadro.com "Goquadro.com"
 [go-authors]: https://golang.org/AUTHORS "List of he Go authors"
 [angularjs]: https://angularjs.org/ "AngularJS website"
 [nginx]: http://nginx.org/ "nginx website"
-[bootstrap]: http://getbootstrap.com/ "Bootstrap website"
 [mongodb]: http://www.mongodb.org/ "mongoDB website"
 [qualys-test]: https://www.ssllabs.com/ssltest/analyze.html?d=goquadro.com "Qualys SSL Labs report on https://www.goquadro.com"
 [golang.org]: http://golang.org/ "Golang website"
