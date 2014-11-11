@@ -1,5 +1,6 @@
 ---
 layout: base.html
+title: about
 ---
 Project description
 ===================
