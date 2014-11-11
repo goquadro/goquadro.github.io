@@ -1,0 +1,10 @@
+name: GoQuadro blog
+description: "The GoQuadro Blog"
+markdown: redcarpet
+pygments: true
+permalink: /:title/
+timezone: Europe/Rome
+baseurl: http://blog.goquadro.com
+exclude:
+- README.md
+- CNAME
