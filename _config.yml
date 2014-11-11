@@ -2,7 +2,7 @@ name: GoQuadro blog
 description: "The GoQuadro Blog"
 markdown: redcarpet
 pygments: true
-permalink: /:title/
+relative_permalinks: false
 timezone: Europe/Rome
 baseurl: http://blog.goquadro.com
 include: ['_pages']
