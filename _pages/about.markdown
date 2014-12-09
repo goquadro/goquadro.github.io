@@ -15,7 +15,7 @@ User passwords are stored using a **bcrypt** implementation.
 Application data is stored in a **MongoDB** database, whereas user files are stored on Amazon S3.  
 Goquadro sends emails (for account verification and for user notification) using the [Mailgun][mailgun] API.  
 Goquadro sits on a dedicated infrastructure, managed via **ssh** and monitored using [NewRelic](http://newrelic.com).  
-Basic interaction with Goquadro is provided through the dedicated **Chrome extension**, which lets the user push to Goquadro a reference to webpages or remote files with a single click.
+Basic interaction with Goquadro is provided through the dedicated [Google Chrome extension](http://bit.ly/gqchromeext), which lets the user push to Goquadro a reference to webpages or remote files with a single click.
 
 All the code was written using SublimeText3 and VIM, versioned using **git** and saved on a GitLab instance installed on a virtual private server.
 
