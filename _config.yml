@@ -4,7 +4,7 @@ markdown: redcarpet
 pygments: true
 relative_permalinks: false
 timezone: Europe/Rome
-baseurl: http://blog.goquadro.com
+baseurl: http://about.goquadro.com
 include: ['_pages']
 exclude:
 - README.md
