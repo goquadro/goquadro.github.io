@@ -1,6 +1,5 @@
 ---
 layout: base
-permalink: /about/
 ---
 Project description
 ===================
