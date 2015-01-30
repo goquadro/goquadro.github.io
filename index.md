@@ -34,7 +34,7 @@ Goquadro was built using opensource software.
 * [bcrypt implementation][go.bcrypt] by the Go authors
 
 
-[goquadro]: https://www.goquadro.com "Goquadro.com"
+[goquadro]: https://github.com/goquadro/ "Goquadro on Github"
 [go-authors]: https://golang.org/AUTHORS "List of he Go authors"
 [angularjs]: https://angularjs.org/ "AngularJS website"
 [nginx]: http://nginx.org/ "nginx website"
