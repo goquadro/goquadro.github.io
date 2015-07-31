@@ -7,7 +7,7 @@ Project description
 [Goquadro][goquadro] is a web-based, workflow-aware cloud storage system.
 
 The web interface to Goquadro is provided by a single-page application built with **AngularJS** alongside with **HTML5** and **CSS3**.  
-The [secure connection][qualys-test] to the servers is powered by **nginx** in a **forward-security**-compliant **HSTS** mode. Goquadro servers are fully [IPv6 compliant](http://ipv6-test.com/validate.php?url=www.goquadro.com).  
+The secure connection to the servers is powered by **nginx** in a **forward-security**-compliant **HSTS** mode. Goquadro servers are fully IPv6 compliant.  
 Cookieless authentication is performed using **JSON web tokens** and persisted through HTML5 **web storage**.  
 The api server is written in **Go** and serves data to the application through a **JSON** interface.  
 User passwords are stored using a **bcrypt** implementation.  
